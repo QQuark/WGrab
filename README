@@ -4,6 +4,7 @@ What is WGrab ?
 	A per-window X11 mouse jail. Start mouse grabber and it will change the current cursor to an X, click on the window you want the mouse pointer constrained in. When you are done, kill WGrab and your mouse pointer is free again.
 	This is a better implementation than the "poll the position and move back the cursor inside the window manually"-implementation, you won't see the cursor jumping with WGrab.
 
+[![Actions Status](https://github.com/QQuark/WGrab/workflows/C/C++%20CI/badge.svg)](https://github.com/QQuark/WGrab/actions)
 
 How is this useful ?
 
