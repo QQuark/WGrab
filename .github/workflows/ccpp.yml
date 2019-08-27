@@ -10,6 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: install deps
-      run: sudo apt install libxtst-dev
+      run: sudo apt install libxtst-dev libxtst6
     - name: make
       run: make
