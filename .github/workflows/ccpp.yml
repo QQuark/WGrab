@@ -9,5 +9,7 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
+    - name: install deps
+      run: sudo apt install libxtst-dev
     - name: make
       run: make
