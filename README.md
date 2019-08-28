@@ -33,6 +33,6 @@ Depending on the program, wine sometimes won't grab the pointer, but you can now
 ## Authors
 
 - clientwin/dsimple code is copied from the xprop code (allows window targetting)
-- WGrab implementation PsiZzZ <psizzz+wgrab@gmail.com>
+- WGrab implementation QQuark/PsiZzZ <psizzz+wgrab@gmail.com>
 
 	
